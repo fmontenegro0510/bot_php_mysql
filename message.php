@@ -18,7 +18,7 @@ if (mysqli_num_rows($run_query) > 0) {
     echo $replay;
 } else {
     echo "¡Lo siento, no tengo una respuesta a su pregunta!
-    </br><a href='https://www.configuroweb.com/contacto/'>Contacto</a>
+    </br>
     <a href='https://www.conmagchaco.gov.ar/' target='_blank' >   
-    <button >Enviar</button></a>";
+    <button >Visitar la página web </button></a>";
 }

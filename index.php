@@ -20,7 +20,8 @@
                 </div>
                 <div class="msg-header">
                     <p>Hola👋, seleccioná una de las opciones a continuación. <br>
-                    1 - Estado de Concursos <br>
+                    <a href='https://www.conmagchaco.gov.ar/' target='_blank' >   
+                    <button >Visitar la página web </button></a>
                     2 - Inscripcion a Concursos
                     </p>
                 </div>
